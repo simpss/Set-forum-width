@@ -1,3 +1,6 @@
+
+Fork that changes `.page-width` instead of `#wrap` and sets `margin-left`, `margin-right` as `auto` as well.
+
 # Set forum width extension
 
 [![Build Status](https://travis-ci.org/dmzx/Set-forum-width.svg?branch=master)](https://travis-ci.org/dmzx/Set-forum-width)
